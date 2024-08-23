@@ -52,6 +52,9 @@ efficiency do not compromise the security of GNN systems.</p>
 **Kerui Wu**, Sixue Xing, Yuri V Lvov
 
 <p><img src="assets/img/laser.gif" style="width:240px;height:240px;margin-right:10px;float:left">We simulated the micro-machining process with a femtosecond laser using a mathematical model. The study involved identifying and developing a differential equation that could be applied in the simulation program. A 3D graph was generated to illustrate the relationship between the laser's radius and the density of free electrons, which serves as the criterion for determining the completion of the micro-machining process. Additionally, a C++ program was developed to simulate this process more efficiently, achieving faster runtime compared to Matlab.</p>
+<br>
 
 # Technical Implementation
-## China Construction Bank
+## China Construction Bank Achievement System
+##### React.JS, Go, MySQL, Azure
+China Construction Bank is one of the largest banks in China. It has 11 branches in Kunming city with hundreds of employees. In order to help managers tracking and manage each branch, each job position, and each employee's performance, I proposed and implemented a web-based achievement system, where employees can submit their daily achievements like the number of regular deposit, live deposit, and accounts opened for new customers. Managers can view the achievement scores calculated by the rule defined by the bank to systematically evaluate the performance of each employees. A comprehensive sorting and filtering Restful API written in Go with Gin framework was developed to support the frontend React.JS application. The system was deployed on Azure cloud with MySQL database. The system is currently used by all 11 branches in Kunming city.
