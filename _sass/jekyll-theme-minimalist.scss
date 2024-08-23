@@ -9,6 +9,7 @@
 body {
   background-color: var(--clr-bg);
   padding:30px;
+  padding-top: 50px;
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
   font-weight:400;
@@ -143,7 +144,7 @@ kbd {
 }
 
 .sidebar {
-  width:18%;
+  width:15%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -178,7 +179,7 @@ strong {
 }
 
 section {
-  width: 72%;
+  width: 75%;
   float:right;
   padding-bottom:30px;
 }
