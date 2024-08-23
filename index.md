@@ -56,9 +56,15 @@ efficiency do not compromise the security of GNN systems.</p>
 
 # Technical Contribution
 ## China Construction Bank Achievement System
-##### React.JS, Go, MySQL, Azure
+#### React.JS, Go, MySQL, Azure
 <img src="assets/img/ccb.png" style="width:240px;height:240px;margin-right:10px;float:left">[China Construction Bank](https://www.ccb.com/eng/home/index.shtml) is one of the largest banks in China. It has 11 branches in Kunming city with hundreds of employees. In order to help managers tracking and manage each branch, each job position, and each employee's performance, I proposed and implemented a web-based achievement system, where employees can submit their daily achievements like the number of regular deposit, live deposit, and accounts opened for new customers. Managers can view the achievement scores calculated by the rule defined by the bank to systematically evaluate the performance of each employees. A comprehensive sorting and filtering Restful API written in Go with Gin framework was developed to support the frontend React.JS application. The system was deployed on Azure cloud with MySQL database. Furthermore, a secure signup and login page was created with the use of SHA256 and JWT to store passwords and tokens. **The system is currently used by all 11 branches in Kunming city.**
+<br>
 
 ## Submitty Open Source
-#### HTML, JavaScript, PHP, SQL
-<img src="assets/img/submitty.png" style="width:240px;height:240px;margin-right:10px;float:left">[Submitty](https://submitty.org/index/overview) is an open source course management, assignment submission, exam and grading system that is widely used by Computer Science departments in Rensselaer Polytechnic Institute and other universities. I contributed to the development of the system as a [full-stack developer in 2023 spring](https://submitty.org/index/people) by implementing several new features like customizable pronouns setting, which involved front-end development using HTML and JavaScript, backend API creation with PHP, and database schema design using SQL. I also found and fixed several bugs in the system. So far, 5 of my pull requests have been merged into the main branch of the Submitty repository.
+##### HTML, JavaScript, PHP, SQL
+<img src="assets/img/submitty.png" style="width:240px;height:240px;margin-right:10px;float:left">[Submitty](https://submitty.org/index/overview) is an open source course management, assignment submission, exam and grading system that is widely used by Computer Science departments in Rensselaer Polytechnic Institute and other universities. I contributed to the development of the system as a [full-stack developer in 2023 spring](https://submitty.org/index/people) by implementing several new features like customizable pronouns setting, which involved front-end development using HTML and JavaScript, backend API creation with PHP, and database schema design using SQL. I also found and fixed several bugs in the system. So far, [5 of my pull requests](https://github.com/Submitty/Submitty/pulls?q=is:pr+author:keruiwu) have been merged into the main branch of the Submitty repository.
+<br>
+
+## Ocean Dynamic Wallpaper
+##### HTML, JavaScript
+<img src="assets/img/ocean.png" style="width:240px;height:240px;margin-right:10px;float:left">This is a dynamic wallpaper that simulates the ocean written in Canvas element in HTML and animation in JavaScript. Bubbles are generated with random radius, color, and moving speed, where users can click bubbles by tracking the mouse's coordinates. 
