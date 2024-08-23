@@ -65,6 +65,10 @@ efficiency do not compromise the security of GNN systems.</p>
 <img src="assets/img/submitty.png" style="width:240px;height:240px;margin-right:10px;float:left">[Submitty](https://submitty.org/index/overview) is an open source course management, assignment submission, exam and grading system that is widely used by Computer Science departments in Rensselaer Polytechnic Institute and other universities. I contributed to the development of the system as a [full-stack developer in 2023 spring](https://submitty.org/index/people) by implementing several new features like customizable pronouns setting, which involved front-end development using HTML and JavaScript, backend API creation with PHP, and database schema design using SQL. I also found and fixed several bugs in the system. So far, [5 of my pull requests](https://github.com/Submitty/Submitty/pulls?q=is:pr+author:keruiwu) have been merged into the main branch of the Submitty repository.
 <br>
 
+## Wox Translater Plugin
+##### Python, BeautifulSoup
+<img src="assets/img/wox.gif" style="width:240px;height:240px;margin-right:10px;float:left">Wox is a full-featured launcher, access programs and web contents as you type. I developed a plugin for Wox that can translate English to Chinese and vice versa by scraping Cambridge dictionary using BeautifulSoup. Because of the nature of scraping, users can directly download the plugin to use without any registration or API key. The plugin is currenly live on the [Wox plugin store](http://www.wox.one/plugin/409).
+
 ## Ocean Dynamic Wallpaper
 ##### HTML, JavaScript
-<img src="assets/img/ocean.png" style="width:240px;height:240px;margin-right:10px;float:left">This is a dynamic wallpaper that simulates the ocean written in Canvas element in HTML and animation in JavaScript. Bubbles are generated with random radius, color, and moving speed, where users can click bubbles by tracking the mouse's coordinates. 
+<img src="assets/img/ocean.gif" style="width:240px;height:240px;margin-right:10px;float:left">This is a dynamic wallpaper that simulates the ocean written in Canvas element in HTML and animation in JavaScript. Bubbles are generated with random radius, color, and moving speed, where users can click bubbles by tracking the mouse's coordinates. Project repository can be found in [GitHub](https://github.com/keruiwu/Ocean_Dynamic_Wallpaper). 
