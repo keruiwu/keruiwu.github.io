@@ -68,11 +68,7 @@ efficiency do not compromise the security of GNN systems.</p>
 
 ## Wox Translater Plugin
 ##### Python, BeautifulSoup
-<img src="assets/img/wox.gif" style="width:240px;height:150px;margin-right:10px;float:left">Wox is a full-featured launcher, access programs and web contents as you type. I developed a plugin for Wox that can translate English to Chinese and vice versa by scraping Cambridge dictionary using BeautifulSoup. Because of the nature of scraping, users can directly download the plugin to use without any registration or API key. The plugin is currenly live on the [Wox plugin store](http://www.wox.one/plugin/409).
-<br>
-<br>
-<br>
-<br>
+<img src="assets/img/wox.gif" style="width:240px;height:150px;margin-right:10px;float:left">[Wox](http://www.wox.one/) is a full-featured launcher, access programs and web contents as you type. I developed a plugin for Wox that can translate English to Chinese and vice versa by scraping Cambridge dictionary using BeautifulSoup. Because of the nature of scraping, users can directly download the plugin to use without any registration or API key. The plugin is currenly live on the [Wox plugin store](http://www.wox.one/plugin/409).
 <br>
 <br>
 
