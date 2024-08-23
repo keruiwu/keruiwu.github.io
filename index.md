@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About me
-I am a Computer Science undergraduate student at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) who expects to graduate in May 2023. I am honored to participate various research programs with been advised by Professor [Lei Yu](https://leiyucs.github.io/), [Bulent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/). 
+I am a Computer Science undergraduate student at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) who expects to graduate in May 2025. I am honored to participate various research programs with been advised by Professor [Lei Yu](https://leiyucs.github.io/), [Bulent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/). 
 
 # Research
 My research mainly lies in the intersection of machine learning, time series analysis, and system security. Specifically, I am interested in developing or taking advantage of efficient and robust deep learning models to solve real-world problems in various domains such as cybersecurity, biology, and geophysics.
@@ -56,7 +56,7 @@ efficiency do not compromise the security of GNN systems.</p>
 # Technical Contribution
 ## China Construction Bank Achievement System
 ##### React.JS, Go, MySQL, Azure
-<img src="assets/img/ccb.png" style="width:240px;height:240px;margin-right:10px;float:left">[China Construction Bank](https://www.ccb.com/eng/home/index.shtml) is one of the largest banks in China. It has 11 branches in Kunming city with hundreds of employees. In order to help managers tracking and manage each branch, each job position, and each employee's performance, I proposed and implemented a web-based achievement system, where employees can submit their daily achievements like the number of regular deposit, live deposit, and accounts opened for new customers. Managers can view the achievement scores calculated by the rule defined by the bank to systematically evaluate the performance of each employees. A comprehensive sorting and filtering Restful API written in Go with Gin framework was developed to support the frontend React.JS application. The system was deployed on Azure cloud with MySQL database. Furthermore, a secure signup and login page was created with the use of SHA256 and JWT to store passwords and tokens. **The system is currently used by all 11 branches in Kunming city.**
+<img src="assets/img/ccb.png" style="width:240px;height:240px;margin-right:10px;float:left">[China Construction Bank](https://www.ccb.com/eng/home/index.shtml) is one of China's four major state-owned banks. The Dianlong Branch in Kunming is a secondary branch of the China Construction Bank, with 11 sub-branches in Kunming and hundreds of employees. To help the branch managers track and manage the performance of each sub-branch, position, and employee, I proposed and implemented a web-based performance tracking system with React.JS as frontend framework. Employees can submit their daily performance metrics, such as the amount of fixed deposits, current deposits, financial products sold, and the number of new accounts opened for customers. Managers can view performance scores calculated based on rules defined by the bank and systematically evaluate the performance of each employee. Comprehensive Restful APIs, with the use of GinGonic framwork written in Go, are provided for managers to sort and filter the data. **The system is currently used by all 11 branches in Kunming city.**
 <br>
 
 ## Submitty Open Source
