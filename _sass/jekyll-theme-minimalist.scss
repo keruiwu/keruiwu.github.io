@@ -2,12 +2,6 @@
 @import "rouge-github";
 @import "colors";
 
-
-.flex {
-  display: flex;
-}
-
-
 body {
   background-color: var(--clr-bg);
   padding:50px;
@@ -82,6 +76,7 @@ ul.link:last-child {
 }
 
 .wrapper {
+  width:860px;
   margin: 0 auto;
 }
 
@@ -144,7 +139,7 @@ kbd {
 }
 
 .sidebar {
-  width:15%;
+  width:185px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -179,7 +174,7 @@ strong {
 }
 
 section {
-  width: 80%;
+  width: 610px;
   float:right;
   padding-bottom:30px;
 }
@@ -197,6 +192,7 @@ hr {
 }
 
 footer, .sidebar-footer {
+  width:185px;
   float:left;
   bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -317,4 +313,3 @@ footer {
     color:#444;
   }
 }
-
