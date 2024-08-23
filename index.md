@@ -12,12 +12,10 @@ Recently I have been working on the following projects:
 
 ## Robustness of Graph Reduction Against GNN attacks
 We empirically investigate the robustness of graph reduction methods, algorithms that was originally aimed to accelerate the training of graph neural networks(GNNs), aginst various poisoning and backdoor attacks. 
-![Octocat](assets/img/backdoor_research.png)
 
 
 ## Time Series Analysis on Multivariate Seismic Data
 We explored the performance of cutting-edge deep learning based time series models on tackling earthquake detection, phase identification, and onset time picking tasks under both supervised(classification) and unsupervised(anomaly detection) settings.
-![Octocat](assets/img/seismic.png)
 
 ## Efficiently Solving Steady-State of Complex Dynamical Systems
 We proposed a novel two-stage approach to efficiently compute steady stages in large-scale dynamical systems while maintaining the low state error. This method achieved a 2970-fold speedup compared to the traditional numerical integration method when dealing with 8000-node networks. 
@@ -28,8 +26,10 @@ We proposed a novel two-stage approach to efficiently compute steady stages in l
 
   Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
 
-![Octocat](assets/img/backdoor_publication.png)
+<img src="/assets/img/backdoor_publication.png" alt="backdoor_figure" style="display:block;margin-left:auto;margin-right:auto;width=30%;">
 
 
 ## Undergraduate Thesis
-### 
+### Femtosecond Laser Micro Machining [[pdf](assets/file/laser.pdf)]
+
+  **Kerui Wu**, Sixue Xing, Yuri V Lvov
