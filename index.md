@@ -40,15 +40,18 @@ for GNN training, ensuring that enhancements in computational
 efficiency do not compromise the security of GNN systems.</p>
 
 ## Undergraduate Thesis
-### Femtosecond Laser Micro Machining [[pdf](assets/file/laser.pdf)]
-
-**Kerui Wu**, Sixue Xing, Yuri V Lvov
-
-<p><img src="assets/img/laser.gif" style="width:240px;height:240px;margin-right:10px;float:left">We simulated the micro-machining process with a femtosecond laser using a mathematical model. The study involved identifying and developing a differential equation that could be applied in the simulation program. A 3D graph was generated to illustrate the relationship between the laser's radius and the density of free electrons, which serves as the criterion for determining the completion of the micro-machining process. Additionally, a C++ program was developed to simulate this process more efficiently, achieving faster runtime compared to Matlab.</p>
-<br>
-
 ### Identifying Vulnerable Child Care Centers Due to Effects of Temperature and Precipitation [[pdf](assets/file/childcare.pdf)]
 
 **Kerui Wu**, Weihao Li, Yanfeng Liu, Chiting Lu, Jinhui Yu, Tianze Zhu, Thilanka Munasinghe
 
 <p><img src="assets/img/childcare.png" style="width:240px;height:240px;margin-right:10px;float:left">Childcare centers gather lots of children who need protection. Focusing on minimizing physical harm, the impact of natural hazards induced by precipitation and temperature fluctuations on childcare center buildings is a critical concern. Heavy rainfall and extreme temperatures can compromise structural integrity and pose health risks. Leveraging historical data from NASA's Global Precipitation Mission and childcare center locations from Homeland Infrastructure Foundation-Level Data, we processed and cleaned the dataset, utilizing machine learning clustering algorithms. The K-means clustering algorithm and Gaussian Mixture Model, among others, classified childcare centers based on precipitation and temperature data, with silhouette scores above 0.3. Visualization on a US map revealed varying risks among states, influenced by environmental factors. This study underscores the importance of incorporating additional elements like wind and snowfall in future research to assess childcare facility risks and regional vulnerabilities comprehensively.</p>
+<br>
+
+### Femtosecond Laser Micro Machining [[pdf](assets/file/laser.pdf)]
+
+**Kerui Wu**, Sixue Xing, Yuri V Lvov
+
+<p><img src="assets/img/laser.gif" style="width:240px;height:240px;margin-right:10px;float:left">We simulated the micro-machining process with a femtosecond laser using a mathematical model. The study involved identifying and developing a differential equation that could be applied in the simulation program. A 3D graph was generated to illustrate the relationship between the laser's radius and the density of free electrons, which serves as the criterion for determining the completion of the micro-machining process. Additionally, a C++ program was developed to simulate this process more efficiently, achieving faster runtime compared to Matlab.</p>
+
+# Technical Implementation
+## China Construction Bank
