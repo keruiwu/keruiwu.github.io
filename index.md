@@ -22,14 +22,15 @@ We proposed a novel two-stage approach to efficiently compute steady stages in l
 
 # Publication
 ## Conference
-### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]\ **ACM AISec 2024**
+### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]
+**ACM AISec 2024**
 
-  Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
+Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
 
-<img src="/assets/img/backdoor_publication.png" alt="backdoor_figure" style="display:block;margin-left:auto;margin-right:auto;width=30%;">
+<img src="/assets/img/backdoor_publication.png" alt="backdoor_figure" class="figure">
 
 
 ## Undergraduate Thesis
 ### Femtosecond Laser Micro Machining [[pdf](assets/file/laser.pdf)]
 
-  **Kerui Wu**, Sixue Xing, Yuri V Lvov
+**Kerui Wu**, Sixue Xing, Yuri V Lvov
