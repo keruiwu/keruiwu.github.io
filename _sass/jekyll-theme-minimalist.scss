@@ -2,6 +2,10 @@
 @import "rouge-github";
 @import "colors";
 
+.flex {
+  display: flex;
+}
+
 body {
   background-color: var(--clr-bg);
   padding:50px;
@@ -139,7 +143,7 @@ kbd {
 }
 
 .sidebar {
-  width:185px;
+  width:15%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -174,7 +178,7 @@ strong {
 }
 
 section {
-  width: 610px;
+  width: 75%;
   float:right;
   padding-bottom:30px;
 }
