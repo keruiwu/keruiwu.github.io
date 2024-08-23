@@ -45,8 +45,9 @@ efficiency do not compromise the security of GNN systems.</p>
 **Kerui Wu**, Sixue Xing, Yuri V Lvov
 
 <p><img src="assets/img/laser.gif" style="width:240px;height:240px;margin-right:10px;float:left">We simulated the micro-machining process with a femtosecond laser using a mathematical model. The study involved identifying and developing a differential equation that could be applied in the simulation program. A 3D graph was generated to illustrate the relationship between the laser's radius and the density of free electrons, which serves as the criterion for determining the completion of the micro-machining process. Additionally, a C++ program was developed to simulate this process more efficiently, achieving faster runtime compared to Matlab.</p>
+<br>
 
-### Identifying Vulnerable Child Care Centers Due to Effects of Temperature and Precipitation
+### Identifying Vulnerable Child Care Centers Due to Effects of Temperature and Precipitation[[pdf](assets/file/childcare.pdf)]
 
 **Kerui Wu**, Weihao Li, Yanfeng Liu, Chiting Lu, Jinhui Yu, Tianze Zhu, Thilanka Munasinghe
 
