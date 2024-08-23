@@ -45,7 +45,6 @@ efficiency do not compromise the security of GNN systems.</p>
 **Kerui Wu**, Weihao Li, Yanfeng Liu, Chiting Lu, Jinhui Yu, Tianze Zhu, Thilanka Munasinghe
 
 <p><img src="assets/img/childcare.png" style="width:240px;height:240px;margin-right:10px;float:left">Childcare centers gather lots of children who need protection. Focusing on minimizing physical harm, the impact of natural hazards induced by precipitation and temperature fluctuations on childcare center buildings is a critical concern. Heavy rainfall and extreme temperatures can compromise structural integrity and pose health risks. Leveraging historical data from NASA's Global Precipitation Mission and childcare center locations from Homeland Infrastructure Foundation-Level Data, we processed and cleaned the dataset, utilizing machine learning clustering algorithms. The K-means clustering algorithm and Gaussian Mixture Model, among others, classified childcare centers based on precipitation and temperature data, with silhouette scores above 0.3. Visualization on a US map revealed varying risks among states, influenced by environmental factors. This study underscores the importance of incorporating additional elements like wind and snowfall in future research to assess childcare facility risks and regional vulnerabilities comprehensively.</p>
-<br>
 
 ### Femtosecond Laser Micro Machining [[pdf](assets/file/laser.pdf)]
 
