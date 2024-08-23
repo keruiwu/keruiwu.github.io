@@ -24,11 +24,10 @@ We proposed a novel two-stage approach to efficiently compute steady stages in l
 
 # Publication
 ## Conference
-### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]
+### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]\ **ACM AISec 2024**
 
   Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
 
-  **ACM AISec 2024**
 ![Octocat](assets/img/backdoor_publication.png)
 
 
