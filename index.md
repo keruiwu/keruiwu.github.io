@@ -55,7 +55,7 @@ efficiency do not compromise the security of GNN systems.</p>
 
 # Technical Contribution
 ## China Construction Bank Achievement System
-#### React.JS, Go, MySQL, Azure
+##### React.JS, Go, MySQL, Azure
 <img src="assets/img/ccb.png" style="width:240px;height:240px;margin-right:10px;float:left">[China Construction Bank](https://www.ccb.com/eng/home/index.shtml) is one of the largest banks in China. It has 11 branches in Kunming city with hundreds of employees. In order to help managers tracking and manage each branch, each job position, and each employee's performance, I proposed and implemented a web-based achievement system, where employees can submit their daily achievements like the number of regular deposit, live deposit, and accounts opened for new customers. Managers can view the achievement scores calculated by the rule defined by the bank to systematically evaluate the performance of each employees. A comprehensive sorting and filtering Restful API written in Go with Gin framework was developed to support the frontend React.JS application. The system was deployed on Azure cloud with MySQL database. Furthermore, a secure signup and login page was created with the use of SHA256 and JWT to store passwords and tokens. **The system is currently used by all 11 branches in Kunming city.**
 <br>
 
