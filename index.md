@@ -39,6 +39,15 @@ for incorporating robustness considerations in graph reduction
 for GNN training, ensuring that enhancements in computational
 efficiency do not compromise the security of GNN systems.</p>
 
+### Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks [[pdf](https://arxiv.org/pdf/2412.05883)]
+
+**Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
+
+Preprint on **arXiv**
+
+<p><img src="assets/img/poison.png" style="width:240px;height:240px;margin-right:10px;float:left">As Graph Neural Networks (GNNs) become increasingly popular for learning from large-scale graph data across various domains, their susceptibility to adversarial attacks when using graph reduction techniques for scalability remains underexplored. In this paper, we present an extensive empirical study to investigate the impact of graph reduction techniques—specifically graph coarsening and sparsification—on the robustness of GNNs against adversarial attacks. Through extensive experiments involving multiple datasets and GNN architectures, we examine the effects of four sparsification and six coarsening methods on the poisoning attacks. 
+Our results indicate that, while graph sparsification can mitigate the effectiveness of certain poisoning attacks, such as Mettack, it has limited impact on others, like PGD. Conversely, graph coarsening tends to amplify the adversarial impact, significantly reducing classification accuracy as the reduction ratio decreases. Additionally, we provide a novel analysis of the causes driving these effects and examine how defensive GNN models perform under graph reduction, offering practical insights for designing robust GNNs within graph acceleration systems.</p>
+
 ## Undergraduate Thesis
 ### Identifying Vulnerable Child Care Centers Due to Effects of Temperature and Precipitation [[pdf](assets/file/childcare.pdf)]
 
