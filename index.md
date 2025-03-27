@@ -31,7 +31,7 @@ Accepted by **AISec 2024**
 Preprint on **arXiv**
 
 # Awards
-### 1st Place in Seizure Detection Challenge with 7000$ Award[[leaderboard](https://epilepsybenchmarks.com/challenge/)]
+### 1st Place in Seizure Detection Challenge with 7000$ Award [[leaderboard](https://epilepsybenchmarks.com/challenge/)]
 **Kerui Wu**, Ziyue Zhao, Bülent Yener
 
 Organized by **The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders (AI-NEURO) 2025** and **EPFL**
