@@ -24,9 +24,15 @@ Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Cho
 
 Accepted by **AISec 2024**
 
-### Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks [[pdf](https://arxiv.org/pdf/2412.05883)]
+### Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks [[pdf](https://arxiv.org/abs/2412.05883)]
 
 **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
+
+Preprint on **arXiv**
+
+### SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings [[pdf](https://arxiv.org/abs/2504.00336)]
+
+**Kerui Wu**, Ziyue Zhao, Bülent Yener
 
 Preprint on **arXiv**
 
