@@ -3,15 +3,12 @@ layout: default
 ---
 
 # About me
-I am a Computer Science undergraduate student at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) who expects to graduate in May 2025. I am honored to participate various research programs with been advised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/). 
+I am a first-year PhD student in the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at UMass Amherst, advised by Professor [Mingda Qiao](https://sites.google.com/site/acmonsterqiao/). I received my B.S. in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I am honored to participate various research programs with been advised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/). 
 
 # Research
-My research mainly lies in the intersection of machine learning, time series analysis, and system security. Specifically, I am interested in developing or taking advantage of efficient and robust deep learning models to solve real-world problems in various domains such as cybersecurity, biology, and geophysics.
-
-Recently I have been working on the following projects:
+My research interests lies in Trustworthy Machine Learning and AI for Science. Recently I have been working on the following projects:
 
 * **Robustness of Graph Reduction Against GNN attacks**: We empirically investigate the robustness of graph reduction methods, algorithms that was originally aimed to accelerate the training of graph neural networks(GNNs), aginst various poisoning and backdoor attacks. 
-
 
 * **Deep Learning-based Time Series Analysis for Science**: We developed end-to-end deep learning models to analyze time series data in various scientific domains, such as earthquake detection in geophysics and seizure detection in biology. We also explored various unsupervised domain adaptation techniques to improve the generalization of the models.
 
@@ -37,11 +34,13 @@ Preprint on **arXiv**
 Preprint on **arXiv**
 
 # Awards
-### 1st Place in Seizure Detection Challenge with 7000$ Award [[leaderboard](https://epilepsybenchmarks.com/challenge/)]
-**Kerui Wu**, Ziyue Zhao, Bülent Yener
+### 1st Place in Seizure Detection Challenge [[leaderboard](https://epilepsybenchmarks.com/challenge/)]
 
-Organized by **The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders (AI-NEURO) 2025** and **EPFL**
+Organized by **The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders 2025**
 
+### CICS Donor-Funded Scholarships
+
+Funded by the **Manning College of Information & Computer Sciences (CICS) at UMass Amherst**
 
 # Technical Contribution
 ## China Construction Bank Achievement System
