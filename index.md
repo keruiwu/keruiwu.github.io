@@ -20,13 +20,13 @@ My research interests lies in Trustworthy Machine Learning and AI for Science. R
 
 **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
 
-Accepted by **ESORICS 2025**(Acceptance rate: 19.7%)
+Accepted by **ESORICS 2025** (Acceptance rate: 19.7%)
 
 ### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]
 
 Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
 
-Accepted by **AISec’24 CCS 2024**(Acceptance rate: 25%)
+Accepted by **AISec’24 CCS 2024** (Acceptance rate: 25%)
 
 ### SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings [[pdf](https://arxiv.org/abs/2504.00336)]
 
