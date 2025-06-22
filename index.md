@@ -15,17 +15,18 @@ My research interests lies in Trustworthy Machine Learning and AI for Science. R
 * **Efficiently Solving Steady-State of Complex Dynamical Systems**: We proposed a novel two-stage approach to efficiently compute steady stages in large-scale dynamical systems while maintaining the low state error. This method achieved a 2970-fold speedup compared to the traditional numerical integration method when dealing with 8000-node networks. 
 
 # Publication
-### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]
-
-Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
-
-Accepted by **AISec 2024**
 
 ### Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks [[pdf](https://arxiv.org/abs/2412.05883)]
 
 **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
 
-Preprint on **arXiv**
+Accepted by **ESORICS 2025**(Acceptance rate: 19.7%)
+
+### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]
+
+Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
+
+Accepted by **AISec’24 CCS 2024**(Acceptance rate: 25%)
 
 ### SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings [[pdf](https://arxiv.org/abs/2504.00336)]
 
