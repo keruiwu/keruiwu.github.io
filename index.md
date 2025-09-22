@@ -20,7 +20,7 @@ My research interests lies in Trustworthy Machine Learning and AI for Science. R
 
 **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
 
-Accepted by **ESORICS 2025** (Acceptance rate: 19.7%)
+Accepted by **ESORICS 2025** (Acceptance rate: 16%)
 
 ### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]
 
