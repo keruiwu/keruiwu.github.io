@@ -3,20 +3,17 @@ layout: default
 ---
 
 # About me
-I am a first-year PhD student in the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at UMass Amherst, advised by Professor [Mingda Qiao](https://sites.google.com/site/acmonsterqiao/). I received my B.S. in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I am honored to participate various research programs with been advised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/). 
+I am a first-year PhD student in the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at UMass Amherst, advised by Professor [Mingda Qiao](https://sites.google.com/site/acmonsterqiao/). I received my B.S. in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I am honored to participate various research programs with been advised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/people/jianxigao). 
 
 # Research
-My research interests lies in Trustworthy Machine Learning and AI for Science. Recently I have been working on the following projects:
+I like both theory and application research. My recent projects are:
 
-* **Robustness of Graph Reduction Against GNN attacks**: We empirically investigate the robustness of graph reduction methods, algorithms that was originally aimed to accelerate the training of graph neural networks(GNNs), aginst various poisoning and backdoor attacks. 
-
-* **Deep Learning-based Time Series Analysis for Science**: We developed end-to-end deep learning models to analyze time series data in various scientific domains, such as earthquake detection in geophysics and seizure detection in biology. We also explored various unsupervised domain adaptation techniques to improve the generalization of the models.
-
-* **Efficiently Solving Steady-State of Complex Dynamical Systems**: We proposed a novel two-stage approach to efficiently compute steady stages in large-scale dynamical systems while maintaining the low state error. This method achieved a 2970-fold speedup compared to the traditional numerical integration method when dealing with 8000-node networks. 
+* **Online Learning**: Theoretical aspects of prediction, learning, and decision-making in online settings.
+* **AI for Science**: Deep learning-based EEG signal analysis for seizure detection/prediction, sleep stage classification, etc.
+* **Trustworthy ML**: Adversarial robustness of neural network against poison, evasion, and backdoor attacks.
 
 # Publication
-
-### Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks [[pdf](https://arxiv.org/abs/2412.05883)]
+### On the adversarial robustness of graph neural networks with graph reduction [[pdf](https://arxiv.org/abs/2412.05883)]
 
 **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
 
@@ -28,7 +25,7 @@ Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Cho
 
 Accepted by **AISec’24 CCS 2024** (Acceptance rate: 25%)
 
-### SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings [[pdf](https://arxiv.org/abs/2504.00336)]
+### Large EEG-U-Transformer for Time-Step Level Detection Without Pre-Training [[pdf](https://arxiv.org/abs/2504.00336)]
 
 **Kerui Wu**, Ziyue Zhao, Bülent Yener
 
