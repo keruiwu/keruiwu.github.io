@@ -9,8 +9,8 @@ I am a first-year PhD student in the [Manning College of Information & Computer 
 I like both theory and application research. My recent projects are:
 
 * **Online Learning**: Theoretical aspects of prediction, learning, and decision-making in online settings.
-* **AI for Science**: Deep learning-based EEG signal analysis for seizure detection/prediction, sleep stage classification, etc.
-* **Trustworthy ML**: Adversarial robustness of neural network against poison, evasion, and backdoor attacks.
+* **AI for Science**: Biosignal/EEG analysis and representation learning.
+* **Trustworthy ML**: Adversarial Robustness of neural networks against poison/backdoor attacks.
 
 # Publication
 ### On the adversarial robustness of graph neural networks with graph reduction [[pdf](https://arxiv.org/abs/2412.05883)]
