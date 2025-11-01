@@ -8,7 +8,7 @@ I am a first-year PhD student in the [Manning College of Information & Computer 
 # Research
 I like both theory and application research. My recent projects are:
 
-* **Online Learning**: Theoretical aspects of prediction, learning, and decision-making in online settings.
+* **Learning Theory**: Theoretical aspects of prediction, learning, and decision-making in online settings.
 * **AI for Science**: Biosignal/EEG analysis and representation learning.
 * **Trustworthy ML**: Adversarial Robustness of neural networks against poison and backdoor attacks.
 
