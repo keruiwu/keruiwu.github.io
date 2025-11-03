@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About me
-I am a first-year PhD student in the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at UMass Amherst, advised by Professor [Mingda Qiao](https://sites.google.com/site/acmonsterqiao/). I received my B.S. in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I am honored to participate various research programs with been advised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/people/jianxigao). 
+I am a first-year PhD student in the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at UMass Amherst, advised by Professor [Mingda Qiao](https://sites.google.com/site/acmonsterqiao/). I received my B.S. in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I had the privilege of participating in various research programs supervised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/people/jianxigao). 
 
 # Research
 I like both theory and application research. My recent projects are:
