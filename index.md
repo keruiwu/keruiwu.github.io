@@ -9,55 +9,67 @@ I am a first-year PhD student in the [Manning College of Information & Computer 
 I like both theory and application research. My recent projects are:
 
 * **Learning Theory**: Theoretical aspects of prediction, learning, and decision-making in online settings.
-* **AI for Science**: Biosignal/EEG analysis and representation learning.
 * **Trustworthy ML**: Adversarial Robustness of neural networks against poison and backdoor attacks.
+* **AI for Science**: Biosignal/EEG analysis; LLM-based multi-agent for healthcare.
 
 # Publication
-### On the adversarial robustness of graph neural networks with graph reduction [[pdf](https://arxiv.org/abs/2412.05883)]
+- **On the adversarial robustness of graph neural networks with graph reduction** [[pdf](https://arxiv.org/abs/2412.05883)] [[code](https://github.com/RPI-DSPlab/Gnn_Reduction_Poisoning_Benchmark)]
 
-**Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
+    **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
 
-Accepted by **ESORICS 2025** (Acceptance rate: 16%)
+    Accepted by **ESORICS 2025** (Acceptance rate: 16%)
 
-### On the Robustness of Graph Reduction Against GNN Backdoor [[pdf](https://arxiv.org/pdf/2407.02431)]
+- **On the Robustness of Graph Reduction Against GNN Backdoor** [[pdf](https://arxiv.org/abs/2407.02431)]
 
-Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
+    Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
 
-Accepted by **AISec’24 CCS 2024** (Acceptance rate: 25%)
+    Accepted by **AISec’24 CCS 2024** (Acceptance rate: 25%)
 
-### Large EEG-U-Transformer for Time-Step Level Detection Without Pre-Training [[pdf](https://arxiv.org/abs/2504.00336)]
+- **Large EEG-U-Transformer for Time-Step Level Detection Without Pre-Training** [[pdf](https://arxiv.org/abs/2504.00336)] [[code](https://github.com/keruiwu/SeizureTransformer)]
 
-**Kerui Wu**, Ziyue Zhao, Bülent Yener
+    **Kerui Wu**, Ziyue Zhao, Bülent Yener
 
-Preprint on **arXiv**
+    Preprint on **arXiv**
+
+- **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization** [[pdf](https://arxiv.org/abs/2601.00290v1)]
+
+    Sixue Xing, Xuanye Xia, **Kerui Wu**, Meng Jiang, Jintai Chen, Tianfan Fu
+
+    Preprint on **arXiv**
+
 
 # Awards
-### 1st Place in Seizure Detection Challenge [[leaderboard](https://epilepsybenchmarks.com/challenge/)]
+- **1st Place in Seizure Detection Challenge** [[leaderboard](https://epilepsybenchmarks.com/challenge/)]
 
-Organized by **The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders 2025**
+    Organized by *The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders 2025*
 
-### CICS Donor-Funded Scholarships
+- **CICS Donor-Funded Scholarships**
 
-Funded by the **Manning College of Information & Computer Sciences (CICS) at UMass Amherst**
+    Funded by the *Manning College of Information & Computer Sciences (CICS) at UMass Amherst*
 
 # Technical Contribution
-## China Construction Bank Achievement System
-##### React.JS, Go, MySQL, Azure
-<img src="assets/img/ccb.png" style="width:240px;height:240px;margin-right:10px;float:left">[China Construction Bank](https://www.ccb.com/eng/home/index.shtml) is one of China's four major state-owned banks. The Dianlong Branch in Kunming is a secondary branch of the China Construction Bank, with 11 sub-branches in Kunming and hundreds of employees. To help the branch managers track and manage the performance of each sub-branch, position, and employee, I proposed and implemented a web-based performance tracking system with React.JS as frontend framework. Employees can submit their daily performance metrics, such as the amount of fixed deposits, current deposits, financial products sold, and the number of new accounts opened for customers. Managers can view performance scores calculated based on rules defined by the bank and systematically evaluate the performance of each employee. Comprehensive Restful APIs, with the use of GinGonic framwork written in Go, are provided for managers to sort and filter the data. **The system is currently used by all 11 sub-branches in Kunming city.**
-<br>
-
-## Submitty Open Source
-##### HTML, JavaScript, PHP, SQL
-<img src="assets/img/submitty.png" style="width:240px;height:240px;margin-right:10px;float:left">[Submitty](https://submitty.org/index/overview) is an open source course management, assignment submission, exam and grading system that is widely used by Computer Science departments in Rensselaer Polytechnic Institute and other universities. I contributed to the development of the system as a [full-stack developer in 2023 spring](https://submitty.org/index/people) by implementing several new features like customizable pronouns setting, which involved front-end development using HTML and JavaScript, backend API creation with PHP, and database schema design using SQL. I also found and fixed several bugs in the system. So far, [5 of my pull requests](https://github.com/Submitty/Submitty/pulls?q=is:pr+author:keruiwu) have been merged into the main branch of the Submitty repository.
-<br>
-<br>
-
-## Wox Translater Plugin
-##### Python, BeautifulSoup
-<img src="assets/img/wox.gif" style="width:240px;height:150px;margin-right:10px;float:left">[Wox](http://www.wox.one/) is a full-featured launcher, access programs and web contents as you type. I developed a plugin for Wox that can translate English to Chinese and vice versa by scraping Cambridge dictionary using BeautifulSoup. Because of the nature of scraping, users can directly download the plugin to use without any registration or API key. The plugin is currenly live on the [Wox plugin store](http://www.wox.one/plugin/409).
+<div class="technical_contribution_block">
+<h2 class="technical_contribution_title">China Construction Bank Achievement System</h2>
+<h4>React.JS, Go, MySQL, Azure</h4>
+<img src="assets/img/ccb.png" style="width:240px;height:240px;margin-right:10px;float:left"><a href="https://www.ccb.com/eng/home/index.shtml">China Construction Bank</a> is one of China's four major state-owned banks. The Dianlong Branch in Kunming is a secondary branch of the China Construction Bank, with 11 sub-branches in Kunming and hundreds of employees. To help the branch managers track and manage the performance of each sub-branch, position, and employee, I implemented a web-based performance tracking system. Employees can submit their daily performance metrics, such as the amount of fixed deposits, current deposits, financial products sold, and the number of new accounts opened for customers. Managers can view performance scores calculated based on rules defined by the bank and systematically evaluate the performance of each employee. Comprehensive Restful APIs, are provided for managers to sort and filter the data. <b>The system is used by all 11 sub-branches in Kunming city from 2024-2025.</b>
+<!-- <br> -->
+</div>
+<div class="technical_contribution_block">
+<h2 class="technical_contribution_title">Submitty Open Source</h2>
+<h4>HTML, JavaScript, PHP, SQL</h4>
+<img src="assets/img/submitty.png" style="width:240px;height:240px;margin-right:10px;float:left"><a href="https://submitty.org/index/overview">Submitty</a> is an open source course management, assignment submission, exam and grading system that is widely used by Computer Science departments in Rensselaer Polytechnic Institute and other universities. I contributed to the development of the system as a <a href="https://submitty.org/index/people">full-stack developer in 2023 spring</a> by implementing several new features like customizable pronouns setting, which involved front-end development using HTML and JavaScript, backend API creation with PHP, and database schema design using SQL. I also found and fixed several bugs in the system. So far, <a href="https://github.com/Submitty/Submitty/pulls?q=is:pr+author:keruiwu">5 of my pull requests</a> have been merged into the main branch of the Submitty repository.
 <br>
 <br>
-
-## Ocean Dynamic Wallpaper
-##### HTML, JavaScript
-<img src="assets/img/ocean.gif" style="width:240px;height:125px;margin-right:10px;float:left">This is a dynamic wallpaper that simulates the ocean written in Canvas element in HTML and animation in JavaScript. Bubbles are generated with random radius, color, and moving speed, where users can click bubbles by tracking the mouse's coordinates. Project repository can be found in [GitHub](https://github.com/keruiwu/Ocean_Dynamic_Wallpaper). 
+</div>
+<div class="technical_contribution_block">
+<h2 class="technical_contribution_title">Wox Translater Plugin</h2>
+<h4>Python, BeautifulSoup</h4>
+<img src="assets/img/wox.gif" style="width:240px;height:150px;margin-right:10px;float:left"><a href="http://www.wox.one/">Wox</a> is a full-featured launcher, access programs and web contents as you type. I developed a plugin for Wox that can translate English to Chinese and vice versa by scraping Cambridge dictionary using BeautifulSoup. Because of the nature of scraping, users can directly download the plugin to use without any registration or API key. The plugin is currenly live on the <a href="http://www.wox.one/plugin/409">Wox plugin store</a>.
+<br>
+<br>
+</div>
+<div class="technical_contribution_block">
+<h2 class="technical_contribution_title">Ocean Dynamic Wallpaper</h2>
+<h4>HTML, JavaScript</h4>
+<img src="assets/img/ocean.gif" style="width:240px;height:125px;margin-right:10px;float:left">This is a dynamic wallpaper that simulates the ocean written in Canvas element in HTML and animation in JavaScript. Bubbles are generated with random radius, color, and moving speed, where users can click bubbles by tracking the mouse's coordinates. Project repository can be found in <a href="https://github.com/keruiwu/Ocean_Dynamic_Wallpaper">GitHub</a>. 
+</div>

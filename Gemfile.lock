@@ -34,9 +34,13 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
+    ffi (1.17.0-arm64-darwin)
     ffi (1.17.0-x86_64-linux-musl)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
+    google-protobuf (4.27.3-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
     google-protobuf (4.27.3-x86_64-linux)
       bigdecimal
       rake (>= 13)
@@ -95,6 +99,8 @@ GEM
     logger (1.6.0)
     mercenary (0.4.0)
     minitest (5.25.1)
+    nokogiri (1.16.7-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
     parallel (1.26.3)
@@ -162,6 +168,7 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
+  arm64-darwin-23
   x86_64-linux-musl
 
 DEPENDENCIES
