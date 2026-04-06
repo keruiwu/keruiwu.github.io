@@ -31,9 +31,9 @@ I like both theory and application research. My recent projects are:
 
     Preprint on **arXiv**
 
-- **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization** [[pdf](https://arxiv.org/abs/2601.00290v1)]
+- **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)]
 
-    Sixue Xing, Xuanye Xia, **Kerui Wu**, Meng Jiang, Jintai Chen, Tianfan Fu
+    Sixue Xing, **Kerui Wu**, Xuanye Xia, Meng Jiang, Jintai Chen, Tianfan Fu
 
     Preprint on **arXiv**
 
