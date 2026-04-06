@@ -43,7 +43,7 @@ I like both theory and application research. My recent projects are:
 
     Organized by *The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders 2025*
 
-- **CICS Donor-Funded Scholarships**
+- **CICS Scholarships**
 
     Funded by the *Manning College of Information & Computer Sciences (CICS) at UMass Amherst*
 
