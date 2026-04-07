@@ -31,7 +31,7 @@ I like both theory and application research. My recent projects are:
 
     Preprint on **arXiv**
 
-- **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)]
+- **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)] [[code](https://github.com/xingsixue123/ClinicalFailureReasonReTrial)]
 
     Sixue Xing, **Kerui Wu**, Xuanye Xia, Meng Jiang, Jintai Chen, Tianfan Fu
 
