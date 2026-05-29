@@ -32,7 +32,7 @@ I like both theory and application research. My recent projects are:
 
 - **Compute Allocation in Evolutionary Search: From Depth-Breadth to Multi-Armed Bandits** [[pdf](https://arxiv.org/abs/2605.29268)]
 
-  **Kerui Wu** <sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Sixue Xing<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Haoyu He <sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
+  **Kerui Wu**<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Sixue Xing<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Haoyu He<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
 
   Preprint on **arXiv**
 
