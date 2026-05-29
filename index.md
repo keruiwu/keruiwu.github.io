@@ -14,13 +14,27 @@ I like both theory and application research. My recent projects are:
 
 # Publication
 
-$^*$ stands for co-first author with equal contribution
+<div style="
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 1rem 0 0.8rem 0;
+  padding: 0.4rem 0.7rem;
+  border-left: 3px solid #d8c27a;
+  background: rgba(216, 194, 122, 0.10);
+  color: #d6d6d6;
+  font-size: 0.95rem;
+  border-radius: 6px;
+">
+  <span style="font-weight: 700; color: #d8c27a;">*</span>
+  <span>Co-first authors / Equal contribution</span>
+</div>
 
 - **Compute Allocation in Evolutionary Search: From Depth-Breadth to Multi-Armed Bandits** [[pdf](https://arxiv.org/abs/2605.29268)]
 
-    **Kerui Wu**$^*$, Sixue Xing$^*$, Haoyu He$^*$, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
+  **Kerui Wu** <sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Sixue Xing<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Haoyu He <sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
 
-    Preprint on **arXiv**
+  Preprint on **arXiv**
 
 
 - **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)] [[code](https://github.com/xingsixue123/ClinicalFailureReasonReTrial)]
