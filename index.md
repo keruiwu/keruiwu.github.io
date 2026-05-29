@@ -13,6 +13,22 @@ I like both theory and application research. My recent projects are:
 * **AI for Science**: Biosignal/EEG analysis; LLM-based multi-agent for healthcare.
 
 # Publication
+
+$^*$ stands for co-first author with equal contribution
+
+- **Compute Allocation in Evolutionary Search: From Depth-Breadth to Multi-Armed Bandits** [[pdf](https://arxiv.org/abs/2605.29268)]
+
+    **Kerui Wu**$^*$, Sixue Xing$^*$, Haoyu He$^*$, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
+
+    Preprint on **arXiv**
+
+
+- **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)] [[code](https://github.com/xingsixue123/ClinicalFailureReasonReTrial)]
+
+    Sixue Xing, **Kerui Wu**, Xuanye Xia, Meng Jiang, Jintai Chen, Tianfan Fu
+
+    Preprint on **arXiv**
+
 - **On the adversarial robustness of graph neural networks with graph reduction** [[pdf](https://arxiv.org/abs/2412.05883)] [[code](https://github.com/RPI-DSPlab/Gnn_Reduction_Poisoning_Benchmark)]
 
     **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
@@ -30,12 +46,6 @@ I like both theory and application research. My recent projects are:
     **Kerui Wu**, Ziyue Zhao, Bülent Yener
 
     Technical Report on **arXiv** --- **Winning Model of 2025 Seizure Detection Challenge**
-
-- **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)] [[code](https://github.com/xingsixue123/ClinicalFailureReasonReTrial)]
-
-    Sixue Xing, **Kerui Wu**, Xuanye Xia, Meng Jiang, Jintai Chen, Tianfan Fu
-
-    Preprint on **arXiv**
 
 
 # Awards
