@@ -63,13 +63,17 @@ I like both theory and application research. My recent projects are:
 
 
 # Awards
+- **NSF NAIRR Pilot Start-Up Award, PI**
+
+    National Artificial Intelligence Research Resource (NAIRR) Pilot
+
 - **1st Place in Seizure Detection Challenge** [[leaderboard](https://epilepsybenchmarks.com/challenge/)]
 
-    Organized by *The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders 2025*
+    The International Conference on Artificial Intelligence in Epilepsy and Other Neurological Disorders 2025
 
 - **CICS Scholarships**
 
-    Funded by the *Manning College of Information & Computer Sciences (CICS) at UMass Amherst*
+    Manning College of Information & Computer Sciences (CICS), UMass Amherst
 
 # Technical Contribution
 <div class="technical_contribution_block">
