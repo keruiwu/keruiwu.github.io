@@ -34,26 +34,26 @@ I like both theory and application research. My recent projects are:
 
   **Kerui Wu**<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Sixue Xing<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Haoyu He<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
 
-  Preprint on **arXiv**
+  **EMNLP 2026**, Main (Acceptance rate: 15.4%)
 
 
 - **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)] [[code](https://github.com/xingsixue123/ClinicalFailureReasonReTrial)]
 
     Sixue Xing, **Kerui Wu**, Xuanye Xia, Meng Jiang, Jintai Chen, Tianfan Fu
 
-    Preprint on **arXiv**
+    **EMNLP 2026**, Findings (Acceptance rate: 29.7%)
 
 - **On the adversarial robustness of graph neural networks with graph reduction** [[pdf](https://arxiv.org/abs/2412.05883)] [[code](https://github.com/RPI-DSPlab/Gnn_Reduction_Poisoning_Benchmark)]
 
     **Kerui Wu**, Ka-Ho Chow, Wenqi Wei, Lei Yu
 
-    Accepted by **ESORICS 2025** (Acceptance rate: 16%)
+    **ESORICS 2025** (Acceptance rate: 16%)
 
 - **On the Robustness of Graph Reduction Against GNN Backdoor** [[pdf](https://arxiv.org/abs/2407.02431)]
 
     Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
 
-    Accepted by **AISec’24 CCS 2024** (Acceptance rate: 25%)
+    **AISec’24 CCS 2024** (Acceptance rate: 25%)
 
 - **Large EEG-U-Transformer for Time-Step Level Detection Without Pre-Training** [[pdf](https://arxiv.org/abs/2504.00336)] [[code](https://github.com/keruiwu/SeizureTransformer)]
 
