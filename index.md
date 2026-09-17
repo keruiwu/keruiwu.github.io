@@ -3,14 +3,13 @@ layout: default
 ---
 
 # About me
-I am a first-year PhD student in the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at UMass Amherst, advised by Professor [Mingda Qiao](https://sites.google.com/site/acmonsterqiao/). I received my B.S. in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I had the privilege of participating in various research programs supervised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/people/jianxigao). 
+I am a second-year PhD student in the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at UMass Amherst, advised by Professor [Mingda Qiao](https://sites.google.com/site/acmonsterqiao/). I received my B.S. in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I had the privilege of participating in various research programs supervised by Professor [Lei Yu](https://leiyucs.github.io/), [Bülent Yener](https://www.cs.rpi.edu/~yener/), and [Jianxi Gao](https://www.gaojianxi.com/people/jianxigao). 
 
 # Research
 I like both theory and application research. My recent projects are:
 
-* **Learning Theory**: Theoretical aspects of prediction, learning, and decision-making in online settings.
-* **Trustworthy ML**: Adversarial Robustness of neural networks against poison and backdoor attacks.
-* **AI for Science**: Biosignal/EEG analysis; LLM-based multi-agent for healthcare.
+* **Learning Theory**: Online Learning, Reinforcement Learning, Collaborative Learning
+* **AI Agents**: Self-Evolving AI, Sequential Decision-Making, Multi-Agent Coordination, Resource Allocation
 
 # Publication
 
@@ -30,7 +29,7 @@ I like both theory and application research. My recent projects are:
   <span>Co-first authors / Equal contribution</span>
 </div>
 
-- **Compute Allocation in Evolutionary Search: From Depth-Breadth to Multi-Armed Bandits** [[pdf](https://arxiv.org/abs/2605.29268)]
+- **Compute Allocation for Self-Evolving LLMs: From Depth-Breadth to Multi-Armed Bandits** [[pdf](https://arxiv.org/abs/2605.29268)] [[code](https://github.com/keruiwu/self-evolving-allocation)]
 
   **Kerui Wu**<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Sixue Xing<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Haoyu He<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
 
@@ -49,17 +48,17 @@ I like both theory and application research. My recent projects are:
 
     **ESORICS 2025** (Acceptance rate: 16%)
 
-- **On the Robustness of Graph Reduction Against GNN Backdoor** [[pdf](https://arxiv.org/abs/2407.02431)]
-
-    Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
-
-    **AISec’24 CCS 2024** (Acceptance rate: 25%)
-
 - **Large EEG-U-Transformer for Time-Step Level Detection Without Pre-Training** [[pdf](https://arxiv.org/abs/2504.00336)] [[code](https://github.com/keruiwu/SeizureTransformer)]
 
     **Kerui Wu**, Ziyue Zhao, Bülent Yener
 
     Technical Report on **arXiv** --- **Winning Model of 2025 Seizure Detection Challenge**
+
+- **On the Robustness of Graph Reduction Against GNN Backdoor** [[pdf](https://arxiv.org/abs/2407.02431)]
+
+    Yuxuan Zhu, Michael Mandulak, **Kerui Wu**, George Slota, Yuseok Jeon, Ka-Ho Chow, Lei Yu
+
+    **AISec’24 CCS 2024** (Acceptance rate: 25%)
 
 
 # Awards
@@ -86,18 +85,3 @@ I like both theory and application research. My recent projects are:
 <h2 class="technical_contribution_title">Submitty Open Source</h2>
 <h4>HTML, JavaScript, PHP, SQL</h4>
 <img src="assets/img/submitty.png" style="width:240px;height:240px;margin-right:10px;float:left"><a href="https://submitty.org/index/overview">Submitty</a> is an open source course management, assignment submission, exam and grading system that is widely used by Computer Science departments in Rensselaer Polytechnic Institute and other universities. I contributed to the development of the system as a <a href="https://submitty.org/index/people">full-stack developer in 2023 spring</a> by implementing several new features like customizable pronouns setting, which involved front-end development using HTML and JavaScript, backend API creation with PHP, and database schema design using SQL. I also found and fixed several bugs in the system. So far, <a href="https://github.com/Submitty/Submitty/pulls?q=is:pr+author:keruiwu">5 of my pull requests</a> have been merged into the main branch of the Submitty repository.
-<br>
-<br>
-</div>
-<div class="technical_contribution_block">
-<h2 class="technical_contribution_title">Wox Translater Plugin</h2>
-<h4>Python, BeautifulSoup</h4>
-<img src="assets/img/wox.gif" style="width:240px;height:150px;margin-right:10px;float:left"><a href="http://www.wox.one/">Wox</a> is a full-featured launcher, access programs and web contents as you type. I developed a plugin for Wox that can translate English to Chinese and vice versa by scraping Cambridge dictionary using BeautifulSoup. Because of the nature of scraping, users can directly download the plugin to use without any registration or API key. The plugin is currenly live on the <a href="http://www.wox.one/plugin/409">Wox plugin store</a>.
-<br>
-<br>
-</div>
-<div class="technical_contribution_block">
-<h2 class="technical_contribution_title">Ocean Dynamic Wallpaper</h2>
-<h4>HTML, JavaScript</h4>
-<img src="assets/img/ocean.gif" style="width:240px;height:125px;margin-right:10px;float:left">This is a dynamic wallpaper that simulates the ocean written in Canvas element in HTML and animation in JavaScript. Bubbles are generated with random radius, color, and moving speed, where users can click bubbles by tracking the mouse's coordinates. Project repository can be found in <a href="https://github.com/keruiwu/Ocean_Dynamic_Wallpaper">GitHub</a>. 
-</div>
