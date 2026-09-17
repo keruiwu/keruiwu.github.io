@@ -9,7 +9,7 @@ I am a second-year PhD student in the [Manning College of Information & Computer
 I like both theory and application research. My recent projects are:
 
 * **Learning Theory**: Online Learning, Reinforcement Learning, Collaborative Learning
-* **AI Agents**: Self-Evolving AI, Sequential Decision-Making, Multi-Agent Coordination, Resource Allocation
+* **AI Agents**: Self-Evolving AI, Sequential Decision-Making, Multi-Agent Coordination
 
 # Publication
 
