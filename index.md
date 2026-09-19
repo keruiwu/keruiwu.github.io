@@ -29,11 +29,11 @@ I like both theory and application research. My recent projects are:
   <span>Co-first authors / Equal contribution</span>
 </div>
 
-- **Compute Allocation for Self-Evolving LLMs: From Depth-Breadth to Multi-Armed Bandits** [[pdf](https://arxiv.org/abs/2605.29268)]
+- **Compute Allocation for LLM-based Evolutionary Search: From Depth-Breadth to Bandits** [[pdf](https://arxiv.org/abs/2605.29268)]
 
   **Kerui Wu**<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Sixue Xing<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Haoyu He<sup style="font-size: 0.7em; color: #d8c27a;">*</sup>, Zhuo Yang, Haozheng Luo, Tianfan Fu, Aarthy Nagarajan
 
-  **EMNLP 2026**, Main (Acceptance rate: 15.4%)
+  **EMNLP 2026**, Main (Acceptance rate: 15.4%) --- **Oral**
 
 
 - **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents** [[pdf](https://arxiv.org/abs/2601.00290)] [[code](https://github.com/xingsixue123/ClinicalFailureReasonReTrial)]
